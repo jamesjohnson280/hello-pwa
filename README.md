@@ -5,11 +5,11 @@ The classic Hello World program as a Progressive Web App
 
 ## What It Is
 
-A simple PWA demo that displays the text "Hello, World!" utilizing an app manifest, service workers and caching. This demo is written in plain-vanilla HTML, CSS and Javascript (ES6). It has no dependancies.
+A simple PWA demo that displays the text "Hello, World!" utilizing an app manifest, service workers and caching. This demo is written in plain-vanilla HTML, CSS and Javascript (ES6). It has no dependencies.
 
 ## Demo
 
-https://jamesjohnson280.github.io/Hello-PWA/
+https://jamesjohnson280.github.io/hello-pwa/
 
 ## Browser Compatibility
 
