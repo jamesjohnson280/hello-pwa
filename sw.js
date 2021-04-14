@@ -13,6 +13,7 @@ self.addEventListener('install', function(e) {
       return cache.addAll(filesToCache);
     })
   );
+  self.skipWaiting();
 });
 
 /* Serve cached content when offline */
