@@ -23,3 +23,9 @@ Hello PWA has been tested in the following browsers:
 * Firefox 60
 * Safari 11
 * Edge 42
+
+## GitHub Pages
+
+A couple of changes are needed to host this app with GitHub Pages. This is because the app is hosted from a domain subfolder. 
+
+View the changes here: [Comparing master...gh-pages · jamesjohnson280/hello-pwa](https://github.com/jamesjohnson280/hello-pwa/compare/master...gh-pages).
